@@ -5,3 +5,4 @@ Project 1 – Git Practice
 Feature Work
 This line is from master 
 This line is from conflict branch 
+Testing remote sync
