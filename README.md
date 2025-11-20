@@ -1,5 +1,7 @@
 Project 1 – Git Practice
-## New Section (master version is this) 
+<<<<<<< HEAD
+## New Section (master version is this)  
+>>>>>>> nconflict-branch
 Feature Work
 This line is from master 
 This line is from conflict branch 
